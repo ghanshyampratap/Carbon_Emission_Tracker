@@ -31,6 +31,17 @@ We tackled two critical global challenges:
 
 ---
 
+## 🖼️ Images
+
+Here are images of our prototype and deployment setup:
+
+![1](https://github.com/user-attachments/assets/d9602746-0297-407f-bf16-53e87d3ea7ff)
+
+
+
+
+---
+
 ## 🎯 Applications:
 
 🔹 **Real-time Environmental Monitoring** – Gain accurate insights into pollution and deforestation.
@@ -38,5 +49,3 @@ We tackled two critical global challenges:
 🔹 **Forest Protection** – Detect illegal logging and prevent forest fires.
 
 🔹 **Green Transportation Support** – Enable data-driven emission tracking to promote eco-friendly transport.
-
----

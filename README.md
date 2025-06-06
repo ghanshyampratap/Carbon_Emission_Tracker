@@ -35,7 +35,7 @@ We tackled two critical global challenges:
 
 Here are images of our prototype and deployment setup:
 
-![1](https://github.com/user-attachments/assets/d9602746-0297-407f-bf16-53e87d3ea7ff
+![WhatsApp Image 2024-12-01 at 13 20 42_072a447b](https://github.com/user-attachments/assets/e23117a4-fa94-4dd4-946b-d1b1d32ae177)
 
 
 ![WhatsApp Image 2024-11-30 at 05 44 31_c22dc9fc](https://github.com/user-attachments/assets/cdc4a55e-b2f0-4bd7-8406-5538ca9a9472)
